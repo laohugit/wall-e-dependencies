@@ -1,2 +1,1 @@
-# wall-e-dependencies
-瓦力框架统一依赖管理
+# 瓦力[WALL.E]框架统一依赖管理
