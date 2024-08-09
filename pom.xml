@@ -233,6 +233,11 @@
                 <artifactId>wall-e-springboot-support</artifactId>
                 <version>${wall-e-framework.version}</version>
             </dependency>
+            <dependency>
+                <groupId>cn.sx.hu</groupId>
+                <artifactId>wall-e-operation-log</artifactId>
+                <version>${wall-e-framework.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 </project>
